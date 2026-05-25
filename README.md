@@ -1,6 +1,5 @@
 # European Tipping Guide — Booked & Beyond
 
-> **Live site:** https://katiejehenson.github.io/bb-euro-tipping-guide/
 
 A branded travel reference guide covering tipping customs across 48 European, transcontinental, and sovereign nations — built for Booked & Beyond clients.
 
